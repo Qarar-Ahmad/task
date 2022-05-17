@@ -23,6 +23,7 @@ using namespace std;
 	
 int main()
 {
+	cout<<" chutti kr"<<endl;
 	student_info s1,s2,s3,s4,s5;
   	int phy;
 		int chem;
